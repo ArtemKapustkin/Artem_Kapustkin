@@ -1,0 +1,5 @@
+bin/
+obj/
+.vs/
+BasicKnowledge.csproj
+BasicKnowledge.sln
