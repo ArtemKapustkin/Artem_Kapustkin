@@ -8,10 +8,8 @@ namespace Selenium
 
         private string _username = "Admin";
         private string _password = "admin123";
-        private string _title = "Cleaning Manager";
-        private string _description = "Cleaning Managers supervise janitorial operations in a building and coordinate cleaning staff. " +
-                    "Common activities these professionals complete are checking if facilities are cleaned correctly, assigning tasks, " +
-                    "investigating client complaints, ordering supplies, creating schedules, and training employees.";
+        private string _title = "Intern";
+        private string _description = "Intern description.";
         private string _note = "123"; 
 
         [SetUp]
